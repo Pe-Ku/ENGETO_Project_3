@@ -125,7 +125,7 @@ def save_to_csv(file_name: str, election_results: list):
         writer.writeheader()
         writer.writerows(election_results)
         print(f"UKLADAM DO SOUBORU: {file_name}",
-              "UKONCUJI election_scraper",
+              "UKONCUJI PROGRAM",
               sep="\n")
 
 
