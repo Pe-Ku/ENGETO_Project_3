@@ -33,6 +33,7 @@ python ENGETO_Project_3.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=
 ```
 STAHUJI DATA Z VYBRANEHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xnumnuts=1100
 UKLADAM DO SOUBORU: Praha-mesto.csv
+UKONCUJI PROGRAM
 ```
 
 ###### Castecny vystup:
